@@ -1,4 +1,4 @@
-# Detecting Arabic Fake News and Images Using Artificial Intelligence Techniques
+# Detecting Fake Arabic News and Images Using Artificial Intelligence Techniques
 
 A dual-track deep learning framework for multimodal misinformation detection in Arabic media — combining Natural Language Processing for textual credibility assessment and Computer Vision for image forgery detection.
 
